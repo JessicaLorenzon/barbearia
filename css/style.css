@@ -60,7 +60,7 @@ nav a {
 }
 
 .produtos li:hover h2 {
-	font-size: 34px;
+	font-size: 32px;
 }
 
 .produtos li:active {
@@ -95,8 +95,9 @@ footer {
 }
 
 
-main {
-	
+.pageContato {
+	width: 780px;
+    margin: 0 auto;
 }
 
 form {
